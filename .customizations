@@ -3,3 +3,7 @@ EXPO_PUBLIC_APP_SLUG=Basspistol
 EXPO_PUBLIC_IOS_BUNDLE_IDENTIFIER=com.owntubetv.basspistol
 EXPO_PUBLIC_ANDROID_PACKAGE=com.owntubetv.basspistol
 EXPO_PUBLIC_PRIMARY_BACKEND=v.basspistol.org
+EXPO_PUBLIC_FAVICON_URL=https://owntube-tv.github.io/web-client/logos/v.basspistol.org.png
+EXPO_PUBLIC_SPLASH_IMAGE=https://owntube-tv.github.io/web-client/logos/v.basspistol.org.png
+EXPO_PUBLIC_BASE_URL=/cust-app-basspistol
+EXPO_PUBLIC_ICON=https://owntube-tv.github.io/web-client/logos/v.basspistol.org.png
